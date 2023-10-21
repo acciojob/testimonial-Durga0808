@@ -1,16 +1,16 @@
 /*  your css code here. If applicable */
 
 #Maincontainer{
-/* 	width:100vw;
-	height:100vw; */
+
 	background-color:#f5f5f5;
-	padding:15px;
+	padding:10px;
 }
 .box{
-	margin:5px;
-	border:1px black;
+	font-size:13px;
+	font-style:sans-serif;
+	padding:12px;
+	border:2px solid #dcdcdc;
 	background-color:white;
-	padding:10px;
 }
 .author{
 	text-align:right;
